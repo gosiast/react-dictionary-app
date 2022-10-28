@@ -16,9 +16,8 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            {' '}
-            Malgorzata Stano{' '}
-          </a>
+            Malgorzata Stano
+          </a>{' '}
           and is
           <a
             href="https://github.com/gosiast/react-dictionary-app"
