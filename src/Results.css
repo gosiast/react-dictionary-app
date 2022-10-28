@@ -1,17 +1,6 @@
 .Results h3 {
-  font-size: 50px;
+  font-size: 55px;
   font-weight: bold;
-  line-height: 1.5;
   font-family: 'Cormorant Garamond', serif;
-}
-
-.btn-light {
-  background-color: rgb(232, 237, 237);
-  color: #000000;
-  border-style: none;
-  border-radius: 5px;
-}
-
-.btn-light:hover {
-  background-color: rgb(232, 237, 237);
+  color: #c8fdee;
 }

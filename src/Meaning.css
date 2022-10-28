@@ -1,7 +1,8 @@
 .Meaning h4 {
-  font-size: 35px;
+  font-size: 30px;
   line-height: 1.5;
   font-weight: bold;
+  color: #c8fdee;
 }
 
 .Meaning .example {
@@ -14,15 +15,4 @@
 
 .Meaning li {
   list-style-type: circle;
-}
-
-.btn-light {
-  background-color: rgb(232, 237, 237);
-  color: #000000;
-  border-style: none;
-  border-radius: 5px;
-}
-
-.btn-light:hover {
-  background-color: rgb(232, 237, 237);
 }

@@ -2,8 +2,8 @@
   background: radial-gradient(
     circle,
     rgba(198, 255, 242, 1) 0%,
-    rgba(251, 235, 134, 1) 24%,
-    rgba(247, 121, 121, 1) 77%
+    rgba(251, 235, 134, 1) 20%,
+    rgba(247, 121, 121, 1) 79%
   );
   padding: 30px;
   border-radius: 10px;
@@ -25,7 +25,7 @@
 }
 
 .Dictionary .hint {
-  font-size: 12px;
+  font-size: 13px;
   margin-top: 5px;
   text-align: center;
 }
