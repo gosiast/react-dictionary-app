@@ -5,7 +5,7 @@
 }
 
 .Meaning .example {
-  font-size: 15px;
+  font-size: 13px;
   color: #000000;
   font-weight: bold;
   font-style: italic;
@@ -14,4 +14,15 @@
 
 .Meaning li {
   list-style-type: circle;
+}
+
+.btn-light {
+  background-color: rgb(232, 237, 237);
+  color: #000000;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.btn-light:hover {
+  background-color: rgb(232, 237, 237);
 }
